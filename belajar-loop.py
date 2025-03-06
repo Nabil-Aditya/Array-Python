@@ -1,7 +1,8 @@
-# Membuat array berisi nama-nama mahasiswa
-mahasiswa = ["dian", "lala", "putra", "putri"]
+# array dengan nama mahasiswa
+mahasiswa = ["nini", "nunu", "lala", "kaka"]
 
-# Melakukan looping pada array
-print("Daftar mahasiswa:")
-for nama in mahasiswa:
-    print(nama)
+# Looping Elemen Array
+for mhs in mahasiswa:
+
+    # tampilkan isi array mahasiswa
+    print(mhs)

@@ -1,11 +1,8 @@
-# Membuat array berisi nama-nama mahasiswa
-mahasiswa = ["dian", "lala", "putra", "putri"]
+# array dengan nama mahasiswa
+mahasiswa = ["nini", "nunu", "lala", "kaka"]
 
-# Menampilkan array sebelum diubah
-print("Sebelum diubah:", mahasiswa)
+# ubah nilai item array pertama
+mahasiswa[0] = "rara"
 
-# Mengubah nilai pada index ke 0
-mahasiswa[0] = "dion"
-
-# Menampilkan array setelah diubah
-print("Setelah diubah:", mahasiswa)
+# tampilkan isi array mahasiswa
+print(mahasiswa)

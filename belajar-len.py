@@ -1,5 +1,8 @@
-# Membuat array berisi nama-nama mahasiswa
-mahasiswa = ["dian", "lala", "putra", "putri"]
+# array dengan nama mahasiswa
+mahasiswa = ["nini", "nunu", "lala", "kaka"]
 
-# Menampilkan jumlah element dalam array
-print("Jumlah element:", len(mahasiswa))
+# jumlah element pada array
+x = len(mahasiswa)
+
+# menampilkan isi array mahasiswa
+print(x)

@@ -1,5 +1,5 @@
-# Membuat array berisi nama-nama mahasiswa
-mahasiswa = ["dian", "lala", "putra", "putri"]
+# array dengan nama mahasiswa
+mahasiswa = ["nini", "nunu", "lala", "kaka"]
 
-# Menampilkan array
+# menampilkan  isi array mahasiswa
 print(mahasiswa)

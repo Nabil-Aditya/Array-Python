@@ -1,11 +1,8 @@
-# Membuat array berisi nama-nama mahasiswa
-mahasiswa = ["dian", "lala", "putra", "putri"]
+# array dengan nama mahasiswa
+mahasiswa = ["nini", "nunu", "lala", "kaka"]
 
-# Menampilkan array sebelum dihapus
-print("Sebelum dihapus:", mahasiswa)
+# menghapus elemen berdasarkan indeks
+mahasiswa.pop(2)
 
-# Menghapus element "lala" dari array
-mahasiswa.remove("lala")
-
-# Menampilkan array setelah dihapus
-print("Setelah dihapus:", mahasiswa)
+# tampilkan isi array mahasiswa
+print(mahasiswa)

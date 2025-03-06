@@ -1,10 +1,5 @@
-# Membuat array berisi nama-nama negara
-negara = ["Malaysia", "Brunei", "Indonesia", "Filipina", "Singapura", "Birma"]
+# Array berisi nama-nama negara
+negara = ["Malaysia", "Brunei", "Indonesia", "Philippine", "Singapura", "Birma"]
 
-# Menampilkan seluruh elemen array
-print("Daftar negara ASEAN:")
-for nama in negara:
-    print(nama)
-
-# Menampilkan array
-print("\nArray negara:", negara)
+# Menampilkan isi array negara
+print(negara)

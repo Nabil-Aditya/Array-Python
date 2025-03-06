@@ -1,11 +1,8 @@
-# Membuat array berisi nama-nama mahasiswa
-mahasiswa = ["dian", "lala", "putra", "putri"]
+# array dengan nama mahasiswa
+mahasiswa = ["nini", "nunu", "lala", "kaka"]
 
-# Menampilkan array sebelum ditambah
-print("Sebelum ditambah:", mahasiswa)
+# menambahkan element
+mahasiswa.append("tata")
 
-# Menambahkan element baru ke array
-mahasiswa.append("roni")
-
-# Menampilkan array setelah ditambah
-print("Setelah ditambah:", mahasiswa)
+# tampilkan isi array mahasiswa
+print(mahasiswa)
